@@ -5,6 +5,7 @@ Awesome Deta Stuff
 ## Apps & Examples
 
 - [Deta Deploy Action: Deploy to Deta using GitHub Actions](https://github.com/BogDAAAMN/deta-deploy-action)
+- [Lupin: a Telegram bot for Logseq](https://github.com/pomdtr/Lupin)
 - [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base)
 - [Slack Bot on Deta](https://github.com/deta/deta-slack-bot)
 - [Jimbru: micro analytics server](https://github.com/athul/jimbru)
