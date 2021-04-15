@@ -3,7 +3,6 @@ Awesome Deta Stuff
 
 
 ## Apps & Examples
-
 - [Deta Deploy Action: Deploy to Deta using GitHub Actions](https://github.com/BogDAAAMN/deta-deploy-action)
 - [Lupin: a Telegram bot for Logseq](https://github.com/pomdtr/Lupin)
 - [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base)
@@ -14,6 +13,7 @@ Awesome Deta Stuff
 - [Prompts: r/writingprompts in a text editor](https://github.com/fillerInk/prompt)
 - [Mira: a personal CRM](https://github.com/abdelhai/mira)
 - [Detasette: Run Datasette on Deta](https://github.com/abdelhai/datasette-deta)
+- [Random](https://google.com)
 
 
 ## Libraries
