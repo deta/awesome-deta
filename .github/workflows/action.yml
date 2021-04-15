@@ -1,0 +1,26 @@
+name: Markdown Link Check/Linter
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+
+  MarkdownLint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: Install mdl
+        run: gem install mdl
+      - name: Run linter
+        run: mdl README.md
