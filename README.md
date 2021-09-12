@@ -14,6 +14,7 @@ Awesome Deta Stuff
 - [Prompts: r/writingprompts in a text editor](https://github.com/fillerInk/prompt)
 - [Mira: a personal CRM](https://github.com/abdelhai/mira)
 - [Detasette: Run Datasette on Deta](https://github.com/abdelhai/datasette-deta)
+- [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
 
 
 ## Libraries
