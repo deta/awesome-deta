@@ -4,7 +4,7 @@ Contributions are welcome!
 
 Please ensure your pull request adheres to the following guidelines.
 
-## A Note on Repo AWSomeness
+## A Note on Repo Awesome Deta
 
 Each repo listed meets at least one of the following requirements:
 
