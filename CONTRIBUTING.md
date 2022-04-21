@@ -26,7 +26,7 @@ Pull requests might be left open for a period of time to let the community chime
     * Maintain alphabetical ordering where applicable.
 * Add a section if needed.
     * Add the section description.
-    * Add the section title to the [Index](https://github.com/deta/awesome-deta#contents).
+    * Add the section title to the [Contents](https://github.com/deta/awesome-deta#contents).
 * You generally do not need to mention `Deta` or `Deta Cloud` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
