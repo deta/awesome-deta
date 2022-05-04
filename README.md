@@ -139,7 +139,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [Jimbru](https://github.com/athul/jimbru) - micro analytics server.
 - [Lupin](https://github.com/pomdtr/Lupin) - a Telegram bot for Logseq.
 - [Mira](https://github.com/abdelhai/mira) - a personal CRM.
-- [Nemo](https://github.com/harshitsinghai77/nemo-backend) - Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relaxation. [https://nemo-landing-page.netlify.app/](https://nemo-landing-page.netlify.app/)
+- [Nemo](https://github.com/harshitsinghai77/nemo-backend) - Nemo is your digital place to focus.
 - [Prompts](https://github.com/fillerInk/prompt) - r/writingprompts in a text editor.
 - [SQLime](https://github.com/nalgeon/sqlime) - Online SQLite playground.
 - [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) - An example using Deta Base in a Next.js project.
