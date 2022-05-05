@@ -151,6 +151,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [Your First Machine Learning REST API](https://dev.to/gabogomezt/your-first-machine-learning-rest-api-with-python-fastapi-18jm)
 - [FastAPI + Deta](https://dev.to/athulcajay/fastapi-deta-ni5)
 - [Quarantine Resumes with Deta](https://dev.to/deta/how-i-built-my-quarantine-project-thanks-to-node-js-and-deta-base-50c9)
+- [Host Express.js App For Free](https://dev.to/dedomil/how-to-host-expressjs-apps-for-free--44oo)
 
 ## License
 
