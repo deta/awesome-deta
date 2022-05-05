@@ -145,7 +145,6 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) - An example using Deta Base in a Next.js project.
 - [WebCrate App](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
-- [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
 
 ## Tutorials
 
