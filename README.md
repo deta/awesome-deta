@@ -143,6 +143,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [Prompts](https://github.com/fillerInk/prompt) - r/writingprompts in a text editor.
 - [SQLime](https://github.com/nalgeon/sqlime) - Online SQLite playground.
 - [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) - An example using Deta Base in a Next.js project.
+- [Waline](https://waline.js.org/en/guide/server/deta.html) - A simple, safe comment system for static site.
 - [WebCrate App](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
 
