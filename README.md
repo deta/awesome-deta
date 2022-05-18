@@ -1,7 +1,4 @@
 <p align="center">
-    <br /> <br />
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
-    <br /><br /><br />
     <a href="https://deta.sh" target="_blank">
         <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta_logo_dark.svg" width="400">
     </a>
@@ -146,6 +143,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [Waline](https://waline.js.org/en/guide/server/deta.html) - A simple, safe comment system for static site.
 - [WebCrate App](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
+- [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
 
 ## Tutorials
 
