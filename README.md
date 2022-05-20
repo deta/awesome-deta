@@ -50,11 +50,11 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 ### Go SDK
 
-- [Deta Go](https://github.com/deta/deta-go) - Deta Golang SDK.
+- [`deta-go`](https://github.com/deta/deta-go)  _**official**_ - Deta Golang SDK.
 
 ### JavaScript SDK
 
-- [Deta JavaScript](https://github.com/deta/deta-javascript) - Deta JavaScript SDK.
+- [`deta-javascript`](https://github.com/deta/deta-javascript)  _**official**_ - Deta JavaScript SDK.
 
     - ### Deno
         - [Dena](https://github.com/4ov/dena) - A library for intracting with deta API from deno.
@@ -71,7 +71,8 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 ### Python SDK
 
-- [Deta Python](https://github.com/deta/deta-python) - Deta Python Library (SDK).
+- [`deta-python`](https://github.com/deta/deta-python) _**official**_ – Deta Python Library (SDK). 
+
 
 ### Ruby SDK
 
@@ -79,12 +80,12 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 ### Rust SDK
 
-- [data-rust](https://github.com/sarmadgulzar/deta-rust) - Deta SDK for Rust.
-- [Deta Rust](https://github.com/ccgn/urban-succotash) - Rust API for deta.sh.
-- [Deta Rust Library (SDK)](https://github.com/emmanuelantony2000/deta-rust) - Deta Rust Library (SDK).
-- [deta-rs](https://github.com/Borber/deta-rs) - Deta SDK for Rust.
-- [deta-rust](https://github.com/HarTexTeam/deta-rust) - (Unofficial) Deta SDK for Rust.
-- [deta-rust](https://github.com/JakubesP/deta-rust) - The unofficial Deta SDK for Rust lang.
+- [`data-rust`](https://github.com/sarmadgulzar/deta-rust) - Deta SDK for Rust.
+- [`urban-succotash`](https://github.com/ccgn/urban-succotash) - Rust API for deta.sh.
+- [`deta-rust`](https://github.com/emmanuelantony2000/deta-rust) - Deta Rust Library (SDK).
+- [`deta-rs`](https://github.com/Borber/deta-rs) - Deta SDK for Rust.
+- [`deta-rust`](https://github.com/HarTexTeam/deta-rust) - (Unofficial) Deta SDK for Rust.
+- [`deta-rust`](https://github.com/JakubesP/deta-rust) - The unofficial Deta SDK for Rust lang.
 
 ### Swift SDK
 
@@ -93,6 +94,10 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 ### .NET SDK
 
 - [Deta csharp](https://github.com/fabioravila/deta-csharp) - Deta library for .NET Core in C#.
+
+### V SDK
+
+- [`deta-v`](https://github.com/N0tExisting/deta-v) –  Deta Bindings for V 
 
 ## ORM's
 
