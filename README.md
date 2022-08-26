@@ -149,6 +149,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [WebCrate App](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
 - [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
+- [Takeout](https://takeout.bysourfruit.com) - 📧 A constantly updated email service that makes sending emails extremely easy.
 
 ## Tutorials
 
