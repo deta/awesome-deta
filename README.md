@@ -158,6 +158,11 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [Quarantine Resumes with Deta](https://dev.to/deta/how-i-built-my-quarantine-project-thanks-to-node-js-and-deta-base-50c9)
 - [Host Express.js App For Free](https://dev.to/dedomil/how-to-host-expressjs-apps-for-free--44oo)
 
+## Community groups and projcts
+
+- [Deta Unofficial Telegram Community](https://t.me/deta_cloud)
+- [Community-managed docs & guides](https://basic.deta.dev/)
+
 ## License
 
 Creative Commons. Please see [License File](LICENSE) for more information.
