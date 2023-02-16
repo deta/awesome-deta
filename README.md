@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://deta.sh" target="_blank">
-        <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta_logo_dark.svg" width="400">
-    </a>
-</p>
-
 -------
 
 A curated list of awesome sdk's, tutorials, and other cool resources from the Deta ecosystem.
