@@ -40,7 +40,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 - [Deta Cloud for Flutter](https://github.com/liquidiert/deta_dart) - Dart package for easy usage of Deta Base, Drive and Auth.
 - [Deta Drive Dart](https://github.com/DonnC/deta_drive) - A dart helper library for Deta Drive cloud storage.
-- [deta-dart](https://github.com/yeikel16/deta-dart) - The deta-dart library is the simple way to interact with the services of the free clud on the Deta plataform.
+- [deta-dart](https://github.com/yeikel16/deta-dart) - The deta-dart library is the simple way to interact with the services of the free cloud on the Deta plataform.
 
 ### Go SDK
 
