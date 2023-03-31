@@ -62,6 +62,8 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 ### PHP SDK
 
 - [Deta Base PHP](https://github.com/vitorhugoro1/deta-base-php) - Basic PHP Wrapper for Deta Base.
+- [Deta PHP](https://github.com/tuefekci/Deta-PHP) - PHP Wrapper for Deta API.
+- [Deta-PHP-Engine](https://github.com/tuefekci/Deta-PHP-Engine) - PHP Runtime for Deta Micros.
 
 ### Python SDK
 
