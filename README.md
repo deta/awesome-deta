@@ -116,6 +116,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 ### Github Action
 
+- [Deta Action](https://github.com/lizheming/deta-action) - GitHub Action to deploy current repo to Deta Space.
 - [Deploy to Deta Micro](https://github.com/BogDAAAMN/deta-deploy-action) - Simple GitHub Action to deploy current repo to a Deta Micro.
 
 ### Storage
