@@ -145,6 +145,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
 - [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
 - [Takeout](https://takeout.bysourfruit.com) - 📧 A constantly updated email service that makes sending emails extremely easy.
+- [VisitorBadge](https://github.com/lizheming/visitor-badge) - A badge generator service to count visitors of your markdown file.
 
 ## Tutorials
 
