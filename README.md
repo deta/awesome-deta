@@ -28,8 +28,6 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 - [Apps and Examples](#apps--examples)
 
-- [Tutorials](#tutorials)
-
 - [License](#license)
 
 ## SDK's
@@ -116,8 +114,8 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 
 ### Github Action
 
-- [Deta Action](https://github.com/lizheming/deta-action) - GitHub Action to deploy current repo to Deta Space.
-- [Deploy to Deta Micro](https://github.com/BogDAAAMN/deta-deploy-action) - Simple GitHub Action to deploy current repo to a Deta Micro.
+- [Deploy Action by @lizheming](https://github.com/lizheming/deta-action) - GitHub Action to deploy current repo to Deta Space
+- [Deploy Action by @neobrains](https://github.com/neobrains/space-deployment-github-action) - Simple GitHub Action to deploy a repo to a Deta Space.
 
 ### Storage
 
@@ -130,34 +128,20 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 ## Apps & Examples
 
 - [Berowra](https://github.com/sampoder/berowra) - 🔵 An open source CMS built for hackers and hobbyists, runs on Deta Space.
-- [Deta Slack Bot](https://github.com/deta/deta-slack-bot) - Deta Slack Bot that runs on Deta.
-- [Detasette](https://github.com/abdelhai/datasette-deta) - Run Datasette on Deta.
-- [FixCache](https://github.com/aavshr/fixCache) - Track bug-prone git files.
-- [Jimbru](https://github.com/athul/jimbru) - micro analytics server.
-- [Lupin](https://github.com/pomdtr/Lupin) - a Telegram bot for Logseq.
+
 - [Mira](https://github.com/abdelhai/mira) - a personal CRM.
-- [Nemo](https://github.com/harshitsinghai77/nemo-backend) - Nemo is your digital place to focus.
-- [Prompts](https://github.com/fillerInk/prompt) - r/writingprompts in a text editor.
 - [SQLime](https://github.com/nalgeon/sqlime) - Online SQLite playground.
 - [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) - An example using Deta Base in a Next.js project.
 - [Waline](https://waline.js.org/en/guide/server/deta.html) - A simple, safe comment system for static site.
 - [WebCrate App](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 - [yarc](https://github.com/xeust/yarc) - bi-directional notes.
-- [grammY bot on Deta](https://github.com/waptik/grammy-on-deta-template)
 - [Takeout](https://takeout.bysourfruit.com) - 📧 A constantly updated email service that makes sending emails extremely easy.
 - [VisitorBadge](https://github.com/lizheming/visitor-badge) - A badge generator service to count visitors of your markdown file.
 
-## Tutorials
-
-- [Your First Machine Learning REST API](https://dev.to/gabogomezt/your-first-machine-learning-rest-api-with-python-fastapi-18jm)
-- [FastAPI + Deta](https://dev.to/athulcajay/fastapi-deta-ni5)
-- [Quarantine Resumes with Deta](https://dev.to/deta/how-i-built-my-quarantine-project-thanks-to-node-js-and-deta-base-50c9)
-- [Host Express.js App For Free](https://dev.to/dedomil/how-to-host-expressjs-apps-for-free--44oo)
 
 ## Community groups and projcts
 
 - [Deta Unofficial Telegram Community](https://t.me/deta_cloud)
-- [Community-managed docs & guides](https://basic.deta.dev/)
 
 ## License
 
