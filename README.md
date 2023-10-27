@@ -146,7 +146,7 @@ Starters & templates to help you get started.
 - [VisitorBadge](https://github.com/lizheming/visitor-badge) - A badge generator service to count visitors of your markdown file.
 
 
-## Community groups and projcts
+## Community groups and projects
 
 - [Deta Unofficial Telegram Community](https://t.me/deta_cloud)
 
