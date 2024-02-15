@@ -119,6 +119,8 @@ Starters & templates to help you get started.
 
 - [DetaCache](https://github.com/vidyasagar1432/detacache) - Async and Sync Function Decorator to cache function call's to Deta base.
 
+- [SimpleCache](https://github.com/AdaiasMagdiel/simple-cache) - Simple Cache is a lightweight manager for caching with Deta Base, simplifying storage and retrieval of data in Python.
+
 ### Github Action
 
 - [Deploy Action by @lizheming](https://github.com/lizheming/deta-action) - GitHub Action to deploy current repo to Deta Space
