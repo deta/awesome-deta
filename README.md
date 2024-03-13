@@ -5,6 +5,7 @@ A curated list of awesome sdk's, tutorials, and other cool resources from the De
 ## Contents
 - [Starters & templates ](#starters)
 - [SDK's](#sdks)
+    - [Clojure](#clojure-sdk)
     - [Dart](#dart-sdk)
     - [Go](#go-sdk)
     - [JavaScript](#javascript-sdk)
@@ -40,6 +41,10 @@ Starters & templates to help you get started.
 ## SDK's
 
 > Deta and community SDKs, grouped by language.
+
+### Clojure SDK
+
+- [Deta Clojure](https://github.com/AdaiasMagdiel/deta-clojure) - A simple and yet powerful SDK for Deta Base and Deta Drive integration with Clojure.
 
 ### Dart SDK
 
